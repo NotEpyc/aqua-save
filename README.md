@@ -57,27 +57,27 @@ AquaSave is an intelligent water management solution that combines IoT hardware 
 <div align="center">
 
 ### Login & Authentication
-<img src="screenshots/login.png" width="300" alt="Login Screen">
+<img src="assets/screenshots/login.jpg" width="300" alt="Login Screen">
 <p><em>Secure authentication with email and password login</em></p>
 
 ### Dashboard
-<img src="screenshots/dashboard.png" width="300" alt="Dashboard Screen">
+<img src="assets/screenshots/dashboard.jpg" width="300" alt="Dashboard Screen">
 <p><em>Real-time water usage monitoring and system status</em></p>
 
 ### Analytics
-<img src="screenshots/analytics.png" width="300" alt="Analytics Screen">
+<img src="assets/screenshots/analytics.jpg" width="300" alt="Analytics Screen">
 <p><em>Detailed consumption trends and usage patterns</em></p>
 
 ### Leak Detection
-<img src="screenshots/leak_detection.png" width="300" alt="Leak Detection Screen">
+<img src="assets/screenshots/leak_detection.jpg" width="300" alt="Leak Detection Screen">
 <p><em>Active leak monitoring and alert system</em></p>
 
 ### Billing
-<img src="screenshots/billing.png" width="300" alt="Billing Screen">
+<img src="assets/screenshots/billing.jpg" width="300" alt="Billing Screen">
 <p><em>Usage-based billing and payment tracking</em></p>
 
 ### Settings
-<img src="screenshots/settings.png" width="300" alt="Settings Screen">
+<img src="assets/screenshots/settings.jpg" width="300" alt="Settings Screen">
 <p><em>App configuration and user preferences management</em></p>
 
 </div>
