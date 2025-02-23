@@ -1,4 +1,4 @@
-# AquaSave - Smart Water Management System
+# <img src="assets/icons/icon.png" height="2.7%" width="2.7%"> AquaSave - Smart Water Management System
 
 A real-time water monitoring and management mobile application powered by IoT technology.
 
