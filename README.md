@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icons/icon.png" alt="RedHope Logo" width="120"/>
+  <img src="assets/icons/icon.png" alt="AquaSave Logo" width="120"/>
 </p>
 
 <h1 align="center">AquaSave - Smart Water Management System</h1> 
