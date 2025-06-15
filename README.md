@@ -1,4 +1,8 @@
-# <img src="assets/icons/icon.png" height="2.7%" width="2.7%"> AquaSave - Smart Water Management System
+<p align="center">
+  <img src="assets/icons/icon.png" alt="RedHope Logo" width="120"/>
+</p>
+
+<h1 align="center">AquaSave - Smart Water Management System</h1> 
 
 A real-time water monitoring and management mobile application powered by IoT technology.
 
